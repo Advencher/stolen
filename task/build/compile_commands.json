@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/mikea/Desktop/test_task_targam-main/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -I../src -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c++14 -o CMakeFiles\\example.dir\\src\\Example.cpp.obj -c C:\\Users\\mikea\\Desktop\\test_task_targam-main\\src\\Example.cpp",
+  "file": "C:/Users/mikea/Desktop/test_task_targam-main/src/Example.cpp"
+},
+{
+  "directory": "C:/Users/mikea/Desktop/test_task_targam-main/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -I../src -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c++14 -o CMakeFiles\\example.dir\\src\\Str.cpp.obj -c C:\\Users\\mikea\\Desktop\\test_task_targam-main\\src\\Str.cpp",
+  "file": "C:/Users/mikea/Desktop/test_task_targam-main/src/Str.cpp"
+},
+{
+  "directory": "C:/Users/mikea/Desktop/test_task_targam-main/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2019\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -I../src -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c++14 -o CMakeFiles\\example.dir\\src\\StrBuffer.cpp.obj -c C:\\Users\\mikea\\Desktop\\test_task_targam-main\\src\\StrBuffer.cpp",
+  "file": "C:/Users/mikea/Desktop/test_task_targam-main/src/StrBuffer.cpp"
+}
+]

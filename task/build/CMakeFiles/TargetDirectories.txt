@@ -1,0 +1,3 @@
+C:/Users/AlexandrA/Desktop/task/build/CMakeFiles/example.dir
+C:/Users/AlexandrA/Desktop/task/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/AlexandrA/Desktop/task/build/CMakeFiles/ZERO_CHECK.dir
